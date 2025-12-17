@@ -2,7 +2,6 @@
 
 
 I’m a Computer Science student at Delaware State University.<br/>
-I like building websites<br/>
 I mainly work with Java, Python, JavaScript, React, Spring Boot, and PostgreSQL.<br/>
 
 
