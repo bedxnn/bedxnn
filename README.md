@@ -1,8 +1,7 @@
 ## Hi there I'm Bedan
 
 
-I’m a Computer Science student.<br/>
-I mainly work with Java, Python, JavaScript, React, Spring Boot, and PostgreSQL.<br/>
+
 
 
 
